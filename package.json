@@ -1,0 +1,10 @@
+{
+  "name": "eazydict-lookup",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@types/node": "^10.11.3"
+  },
+  "bin": {
+    "eazydict-lookup": "./index.js"
+  }
+}
